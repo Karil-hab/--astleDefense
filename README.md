@@ -34,5 +34,4 @@
     
   
 Видео с геймплеем:
-https://img.youtube.com/vi/watch?v=WbIBpOJAwLI/0.jpg)](https://www.youtube.com/watch?v=watch?v=WbIBpOJAwLI
-
+[IMAGE ALT TEXT HERE](https://img.youtube.com/vi/watch?v=WbIBpOJAwLI/0.jpg)](https://www.youtube.com/watch?v=watch?v=WbIBpOJAwLI)
