@@ -33,5 +33,7 @@
     но ваш коофициент урона будет жестоко понижен с каждой смертью, что явно усложняет процесс.
     
   
-Видео с геймплеем:
-[IMAGE ALT TEXT HERE](https://img.youtube.com/vi/watch?v=WbIBpOJAwLI/0.jpg)](https://www.youtube.com/watch?v=watch?v=WbIBpOJAwLI)
+Видео с геймплеем и небольшим рассказом о игре:
+https://www.youtube.com/watch?v=WbIBpOJAwLI
+
+(Прошу прощение за перебевающию музыку)
